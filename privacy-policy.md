@@ -2,7 +2,7 @@
 
 Last Updated: May 2026
 
-Al Kitab – Holy Quran & Meal (“the App”) respects user privacy and is committed to protecting user information in accordance with applicable laws and platform policies.
+Al Kitab – Holy Quran & Meal (“the App”) respects user privacy and is committed to protecting user information in accordance with applicable laws and Google Play policies.
 
 1. Information Collection
 
@@ -24,7 +24,7 @@ The App uses third-party advertising services such as Google AdMob to display ad
 These services may automatically collect and process certain non-personal data, including but not limited to:
 
 Advertising ID
-Device information (such as device model, operating system version)
+Device information (such as device model and operating system version)
 Anonymous usage and interaction data
 
 This information is used solely for:
@@ -41,9 +41,9 @@ https://policies.google.com/privacy
 
 The App retrieves Quran verses, translations (meal), and related religious content from trusted third-party APIs.
 
-No content is stored on app-controlled servers
-All data is fetched in real time
-No user data is transmitted to these APIs
+No content is stored on developer-controlled servers
+All data is fetched in real time via secure connections
+No personal user data is transmitted to these APIs
 4. Religious Content Disclaimer
 
 The App provides Islamic content for educational and informational purposes only.
