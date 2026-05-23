@@ -1,9 +1,9 @@
 
-📄 Privacy Policy – Al Kitab: Holy Quran & Meal
+📄 Privacy Policy – NURVA: Kur’an & Namaz
 
 Last Updated: May 2026
 
-Al Kitab – Holy Quran & Meal (“the App”) respects user privacy and is committed to protecting user information in accordance with applicable laws and Google Play policies.
+NURVA – Kur’an & Namaz (“the App”) respects user privacy and is committed to protecting user information in accordance with applicable laws and Google Play policies.
 
 1. Information Collection
 
